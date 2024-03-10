@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Corporate Solutions Ltd.",
+      "date": "2023-01-15",
+      "review": "Our corporate event was a huge success, thanks to the impeccable planning and execution by the team. Highly recommended!",
+      "image": "https://example.com/images/corporate_solutions.jpg"
+    },
+    {
+      "name": "EventPro Enterprises",
+      "date": "2023-02-05",
+      "review": "Exceptional service! The attention to detail and professionalism exhibited during our event was outstanding. Kudos!",
+      "image": "https://example.com/images/eventpro_enterprises.jpg"
+    },
+    {
+      "name": "Summit Strategies Inc.",
+      "date": "2023-03-20",
+      "review": "We entrusted Summit Strategies with our annual conference, and they delivered beyond our expectations. Truly impressed!",
+      "image": "https://example.com/images/summit_strategies.jpg"
+    },
+    {
+      "name": "Corporate Events Unlimited",
+      "date": "2023-04-12",
+      "review": "The team at CEU went above and beyond to make our product launch event seamless. Their creativity and execution were top-notch!",
+      "image": "https://example.com/images/corporate_events_unlimited.jpg"
+    },
+    {
+      "name": "Business Elegance Solutions",
+      "date": "2023-05-08",
+      "review": "An elegant touch to our corporate gala! BES ensured a sophisticated and memorable experience. Highly recommended for upscale events!",
+      "image": "https://example.com/images/business_elegance_solutions.jpg"
+    },
+    {
+      "name": "Corporate Harmony Events",
+      "date": "2023-06-25",
+      "review": "Harmony Events lived up to their name, creating a harmonious atmosphere for our team-building retreat. Exceptional planning and execution!",
+      "image": "https://example.com/images/corporate_harmony_events.jpg"
+    },
+    {
+      "name": "Professional Edge Events",
+      "date": "2023-07-17",
+      "review": "Our product seminar was flawlessly executed by Professional Edge Events. The team's professionalism and attention to detail were commendable!",
+      "image": "https://example.com/images/professional_edge_events.jpg"
+    },
+    {
+      "name": "Business Brilliance Events",
+      "date": "2023-08-09",
+      "review": "Brilliant event management! Business Brilliance Events added a touch of creativity and innovation to our corporate product launch.",
+      "image": "https://example.com/images/business_brilliance_events.jpg"
+    }
+  ]
+  

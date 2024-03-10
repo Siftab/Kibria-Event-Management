@@ -1,0 +1,45 @@
+[
+  {
+    "id":"1",
+    "name": "Conferences and Seminars",
+    "image": "https://i.ibb.co/Zz6vxhd/400729574-668153938760172-4095164227219619878-n.jpg",
+    "price": "Tk10,000",
+    "description": "Immerse your audience in a world of knowledge and innovation with our expertly managed conferences and seminars. Our comprehensive services extend beyond the basics, encompassing meticulous planning, flawless execution, and a keen understanding of your event's unique objectives. From securing top-notch speakers to creating immersive environments, we craft experiences that transcend the ordinary. Entrust us with your event, and watch as we transform it into a dynamic platform for learning, networking, and inspiration."
+  },
+  {
+    "id":"2",
+    "name": "Trade Shows and Expos",
+    "image": "https://i.ibb.co/TmnHx4Y/404472054-671891461719753-3040504872158055340-n.jpg",
+    "price": "Tk 8,500",
+    "description": "Elevate your brand presence to new heights at trade shows and expos with our end-to-end management services. We don't just design booths; we craft experiences that captivate your audience. Our team understands the intricacies of these events, implementing strategies to not only attract attention but also convert interest into meaningful connections. From pre-event promotion to post-event analysis, we're your partners in navigating the competitive landscape of trade shows, ensuring your brand shines brightly in the spotlight."
+  },
+  {
+    "id":"3",
+    "name": "Team Building Workshops",
+    "image": "https://i.ibb.co/wWLtv8p/277804649-321097846785719-4292437732702964624-n.jpg",
+    "price": "Tk 12,000",
+    "description": "Unleash the full potential of your team through our dynamic and tailored team-building workshops. Going beyond generic activities, we design programs that address your organization's specific challenges and goals. Our workshops foster open communication, build trust, and enhance collaboration. As your dedicated partners in team development, we create experiences that resonate long after the workshop ends. Invest in your team's cohesion with us and witness a positive transformation in workplace dynamics, productivity, and employee morale."
+  },
+  {
+    "id":"4",
+    "name": "Product Launches",
+    "image": "https://i.ibb.co/TKGzvrT/385483218-646070370968529-1368540480811552990-n-1.jpg",
+    "price": "Tk 15,000",
+    "description": "Launch your products with unparalleled impact, guided by our comprehensive and strategic services. From initial ideation to the grand reveal, we handle every aspect of your product launch. Our team understands the importance of creating anticipation and buzz surrounding your product, employing creative and data-driven strategies. With meticulous planning, innovative execution, and a keen eye for market dynamics, we ensure your product stands out in a crowded marketplace. Trust us to make your product launch a resounding success."
+  },
+  {
+    "id":"5",
+    "name": "Corporate Meetings",
+    "image": "https://i.ibb.co/fkj2Wy9/277229648-321099010118936-5890561295107943453-n.jpg",
+    "price": "Tk 9,500",
+    "description": "Elevate the efficiency of your corporate meetings with our meticulous planning and execution. We understand that successful meetings go beyond agendas; they require seamless logistics and an environment conducive to collaboration. Our team manages every detail, from venue selection to technology setup, allowing you to focus on the substance of your meeting. With our expertise, your corporate gatherings become more than just routine events—they become strategic moments that drive innovation, decision-making, and team synergy."
+  },
+  {
+    "id":"6",
+    "name": "Award Ceremonies",
+    "image": "https://i.ibb.co/3dZrdJD/400851530-668153535426879-3791420500252690586-n.jpg",
+    "price": "Tk 7,000",
+    "description": "Celebrate achievements in style with our tailored award ceremony management services. We go beyond event logistics, curating an atmosphere that befits the significance of your awards. From venue aesthetics to the flow of the ceremony, we ensure every element reflects the prestige of the occasion. Our team understands the emotional resonance of recognition and works to make your award ceremony not just an event but an unforgettable experience. Choose us to honor excellence with a touch of sophistication and flair."
+  }
+]
+  
